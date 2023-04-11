@@ -1,11 +1,12 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Vitor Reis 
+-Profissão: Prevencao de perdas 
+-Cidade:Embu das Artes 
+-O que faz nas horas vaga: Estudo e curto minha familia
+-Feedback sobre o curso Qualidade de Software: Estou muito satisfeito com todo o conteúdo apresentado 
+e tenhao aprendido muito.
+-Feedback sobre a plataforma de estudo da EBAC:Excelente
 
 Obrigado!!!
 
